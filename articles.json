@@ -1,0 +1,39 @@
+[
+    {
+        "id": "0001",
+        "name": "louay",
+        "name_of_article": "FRONT_END",
+        "section": "WEB",
+        "title": "HTML",
+        "content": "html,css,js,frontEnd"
+    },
+    {
+        "id": "0002",
+        "name": "Qusai",
+        "name_of_article": "BACK_END",
+        "section": "WEB",
+        "title": "php",
+        "content": "php,nodejs,js,backEnd"
+    },{
+        "id": "0003",
+        "name": "Ghadeer",
+        "name_of_article": "DATA_S",
+        "section": "SOFTWARE",
+        "title": "c++",
+        "content": "C++,DATA"
+    },{
+        "id": "0004",
+        "name": "Sami",
+        "name_of_article": "FRONT_END",
+        "section": "SOFTWARE",
+        "title": "JS",
+        "content": "js,nodejs,frontEnd"
+    },{
+        "id": "0005",
+        "name": "Shiha",
+        "name_of_article": "FRONT_END",
+        "section": "WEB",
+        "title": "CSS",
+        "content": "css,js,frontEnd"
+    }
+]
